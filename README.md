@@ -1,3 +1,5 @@
+
+> Written with [StackEdit](https://stackedit.io/).
 # testrepo
 
 ## Editing the file.
@@ -61,8 +63,16 @@ term
 - [ ] Contact the media
 
 That is so funny! :joy:
+```markdown
+:smile: :heart_eyes: :wink: :expressionless: :scream: :rage: :pensive: :sob: :joy: :mask:
+:heart: :fire: :poop:
+:+1: :-1: :raised_hands: :point_up:
+```
+:smile: :heart_eyes: :wink: :expressionless: :scream: :rage: :pensive: :sob: :joy: :mask:
+:heart: :fire: :poop:
+:+1: :-1: :raised_hands: :point_up:
 
-I need to highlight these ==very important words==.
+I need to highlight these ==very important words==
 
 H~2~O
   
