@@ -4,6 +4,8 @@
 
 It's a markdown file in this repository.
 
+### Basic Syntax
+
 **bold text**
 
 *Italicied* text.
@@ -26,6 +28,7 @@ It's a markdown file in this repository.
 
 ![alt text](C:\Users\aung365\OneDrive\Pictures\KBZmBanking over 4M Kyats.jpg)
 
+### Extended Syntax
 
 | Syntax | Description |
 | ----------- | ----------- |
