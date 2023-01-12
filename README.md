@@ -24,5 +24,5 @@ It's a markdown file in this repository.
 
 [inner link](https://www.facebook.com/)
 
-![alt text](https://www.facebook.com/photo/?fbid=544117101068581&set=a.440660658080893)
+![alt text](C:\Users\aung365\OneDrive\Pictures\KBZmBanking over 4M Kyats.jpg)
 
